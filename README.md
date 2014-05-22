@@ -1,4 +1,5 @@
 DOMScripting
 ============
 
-DOM Scripting Book (practicing code)
+##DOM Scripting Book (practicing code)##
+Keep Coding!
